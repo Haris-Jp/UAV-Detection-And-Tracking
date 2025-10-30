@@ -8,7 +8,7 @@ This repository contains the **literature review references and supporting mater
 
 ##  Project Summary
 
-This study explores state-of-the-art deep learning approaches for real-time drone-to-drone detection and tracking on embedded edge devices*.  
+This study explores state-of-the-art deep learning approaches for real-time drone-to-drone detection and tracking on embedded edge devices.  
 The review focuses on **YOLO-based and transformer-based** detectors optimized for **UAV vision tasks**, covering research between **2016–2025**.  
 
 All papers are cited according to IEEE format and linked below.  

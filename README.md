@@ -2,13 +2,13 @@
 
 
 This repository contains the **literature review references and supporting materials** for the semester project:  
- **“Real-Time Drone-to-Drone Detection and Tracking using YOLOv9-M on Jetson Nano.”**  
+ **“Real-Time Drone-to-Drone Detection and Tracking using YOLOv9-M.”**  
 *Course:* **Computer Vision (CS-477)**  
 
 
 ##  Project Summary
 
-This study explores state-of-the-art deep learning approaches for real-time drone-to-drone detection and tracking on embedded edge devices such as the **NVIDIA Jetson Nano**.  
+This study explores state-of-the-art deep learning approaches for real-time drone-to-drone detection and tracking on embedded edge devices*.  
 The review focuses on **YOLO-based and transformer-based** detectors optimized for **UAV vision tasks**, covering research between **2016–2025**.  
 
 All papers are cited according to IEEE format and linked below.  

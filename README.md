@@ -14,7 +14,7 @@ The review focuses on **YOLO-based and transformer-based** detectors optimized f
 All papers are cited according to IEEE format and linked below.  
 ---
 
-##  Literature Review Papers (11 Total)
+##  Literature Review Papers 
 
 | # | Paper Title | Authors / Year | Venue | Link |
 |:-:|--------------|----------------|--------|------|

@@ -1,7 +1,7 @@
 # UAV-Detection-Literature-Review
 
 
-This repository contains the **literature review references and supporting materials** for the semester project:  
+This markdown contains the **literature review references and supporting materials** for the semester project:  
  **“Real-Time Drone-to-Drone Detection and Tracking using YOLOv9-M.”**  
 *Course:* **Computer Vision (CS-477)**  
 

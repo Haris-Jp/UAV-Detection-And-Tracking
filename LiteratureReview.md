@@ -13,6 +13,71 @@ The review focuses on **YOLO-based and transformer-based** detectors optimized f
 
 All papers are cited according to IEEE format and linked below.  
 ---
+# Brief Summary of Each Paper
+
+### 1. Redmon et al., 2016 — YOLO (CVPR)
+Introduced the first unified end-to-end real-time object detector, performing localization and classification in a single CNN forward pass. Achieved 45 FPS, establishing the foundation for all modern YOLO variants.  
+**Key Point:** First real-time one-stage detector.
+
+---
+
+### 2. Du et al., 2018 — UAVDT Benchmark (ECCV)
+Created the UAVDT dataset containing over 80k frames for aerial detection and tracking under challenging conditions such as weather, scale variation, and camera motion.  
+**Key Point:** Standard dataset for UAV detection & tracking evaluation.
+
+---
+
+### 3. Lyu et al., 2023 — Tiny UAV Detection (CVPRW Anti-UAV)
+Proposed a lightweight convolutional detector optimized for tiny UAVs at long distances, achieving high FPS while maintaining accuracy through multi-scale feature fusion.  
+**Key Point:** Fast tiny-object detection for embedded systems.
+
+---
+
+### 4. Yu et al., 2023 — Transformer-Based Anti-UAV Tracker (CVPRW)
+Introduced a transformer-based tracker with multi-head attention for improved UAV tracking robustness during rapid motion and occlusion.  
+**Key Point:** Transformer architecture for stable aerial tracking.
+
+---
+
+### 5. Munir et al., 2024 — UAV Detection in Complex Backgrounds (WACV)
+Analyzed UAV detection performance under cluttered scenes, poor lighting, and occlusions, proposing augmentation and preprocessing strategies for robustness.  
+**Key Point:** Environmental robustness analysis for UAV detection.
+
+---
+
+### 6. Liu et al., 2022 — MOT Meets Moving UAV (CVPR)
+Enhanced multi-object tracking (MOT) to handle continuously moving UAV viewpoints by integrating trajectory modeling and temporal association techniques.  
+**Key Point:** Tracking pipelines optimized for aerial camera motion.
+
+---
+
+### 7. Zhu et al., 2019 — VisDrone-DET2019 (ICCV Workshop)
+Released a large-scale UAV dataset with 10k+ images and standardized evaluation metrics for aerial detection challenges.  
+**Key Point:** Widely-used dataset for aerial object detection benchmarks.
+
+---
+
+### 8. Xu et al., 2023 — Survey of YOLO Series (IEEE Access)
+Comprehensively reviewed YOLOv1–YOLOv9, covering architectural evolution, backbone improvements, feature aggregation, quantization, and real-time deployment challenges.  
+**Key Point:** Full technical survey of all YOLO generations.
+
+---
+
+### 9. Tang et al., 2023 — UAV Detection Survey (Remote Sensing)
+Surveyed over 150 UAV detection approaches, examining model design, dataset variety, edge-device constraints, and aerial vision challenges.  
+**Key Point:** Deep UAV-focused survey highlighting embedded AI issues.
+
+---
+
+### 10. Hakani & Rawat, 2024 — YOLOv9 on Jetson Nano (Drones)
+Implemented YOLOv9 on Jetson Nano using TensorRT, pruning, and quantization, achieving 95.7% mAP and real-time 24 FPS performance.  
+**Key Point:** Real-world validation of YOLOv9 on Jetson Nano.
+
+---
+
+### 11. Rey et al., 2025 — YOLO on Edge Devices (Electronics)
+Benchmarked YOLOv5–YOLOv8 models on edge devices, analyzing accuracy–FPS–power trade-offs and proposing configurations optimized for constrained GPU platforms.  
+**Key Point:** Performance comparison of YOLO models on embedded hardware.
 
 ##  Literature Review Papers 
 

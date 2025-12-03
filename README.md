@@ -12,12 +12,12 @@ This project proposes the design and development of a real-time drone-to-drone d
 
 
 ## Hardware Requirements
-* [cite_start]**Edge Computer:** NVIDIA Jetson (Nano / Xavier NX / Orin) [cite: 2]
-* [cite_start]**Camera Module:** Luxonis OAK-D or compatible USB camera [cite: 2]
-* [cite_start]**Flight Controller:** PX4 Autopilot compatible hardware [cite: 2]
+* **Edge Computer:** NVIDIA Jetson (Nano / Xavier NX / Orin) 
+* **Camera Module:** Luxonis OAK-D or compatible USB camera 
+* **Flight Controller:** PX4 Autopilot compatible hardware 
 
 ## Software Dependencies
 * **OS:** Ubuntu 20.04 or 22.04
-* [cite_start]**Middleware:** ROS2 Humble, MAVROS2 [cite: 2]
+* **Middleware:** ROS2 Humble, MAVROS2 
 * **Deep Learning:** PyTorch (Jetson Build), TorchVision, YOLOv9
 

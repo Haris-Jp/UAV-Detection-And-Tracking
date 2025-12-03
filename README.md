@@ -1,6 +1,6 @@
 # Edge-Based Drone-to-Drone Detection and Tracking System
 
-![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Platform](https://img.shields.io/badge/Platform-NVIDIA_Jetson-green)
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)

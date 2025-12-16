@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Platform](https://img.shields.io/badge/Platform-NVIDIA_Jetson-green)
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-red)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## Abstract
 With the growing integration of unmanned aerial vehicles (UAVs) across commercial, defense, and surveillance domains, the need for autonomous aerial monitoring systems has become increasingly critical.

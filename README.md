@@ -12,7 +12,7 @@ This project proposes the design and development of a real-time drone-to-drone d
 
 ## Hardware Requirements
 * **Edge Computer:** NVIDIA Jetson (Orin) 
-* **Camera Module:** Luxonis OAK-D or compatible USB camera 
+* **Camera Module:** ZED3
 * **Flight Controller:** PX4 Autopilot compatible hardware 
 
 ## Software Dependencies
